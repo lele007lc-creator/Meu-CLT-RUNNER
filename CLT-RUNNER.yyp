@@ -36,7 +36,11 @@
   },
   "name":"CLT-RUNNER",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},},
+    {"id":{"name":"rm_img1","path":"rooms/rm_img1/rm_img1.yy",},},
+    {"id":{"name":"rm_img2","path":"rooms/rm_img2/rm_img2.yy",},},
+    {"id":{"name":"rm_img3_1","path":"rooms/rm_img3_1/rm_img3_1.yy",},},
+    {"id":{"name":"rm_img3","path":"rooms/rm_img3/rm_img3.yy",},},
     {"id":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},},
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},},
     {"id":{"name":"spr_clt","path":"sprites/spr_clt/spr_clt.yy",},},
@@ -53,7 +57,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_img1","path":"rooms/rm_img1/rm_img1.yy",},},
+    {"roomId":{"name":"rm_img2","path":"rooms/rm_img2/rm_img2.yy",},},
+    {"roomId":{"name":"rm_img3","path":"rooms/rm_img3/rm_img3.yy",},},
+    {"roomId":{"name":"rm_img3_1","path":"rooms/rm_img3_1/rm_img3_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
