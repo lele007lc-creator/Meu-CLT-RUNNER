@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_espaco",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_chao",
+  "eventList":[],
   "managed":true,
-  "name":"obj_espaco",
+  "name":"obj_chao",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -25,13 +23,15 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"esquerda","filters":[],"listItems":[],"multiselect":false,"name":"esquerda","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_espaco",
-    "path":"sprites/spr_espaco/spr_espaco.yy",
+    "name":"spr_chao",
+    "path":"sprites/spr_chao/spr_chao.yy",
   },
   "spriteMaskId":null,
   "visible":true,
