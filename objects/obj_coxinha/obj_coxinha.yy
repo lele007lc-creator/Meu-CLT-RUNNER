@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_chao",
+  "%Name":"obj_coxinha",
   "eventList":[],
   "managed":true,
-  "name":"obj_chao",
+  "name":"obj_coxinha",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -23,15 +23,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"esquerda","filters":[],"listItems":[],"multiselect":false,"name":"esquerda","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_chao",
-    "path":"sprites/spr_chao/spr_chao.yy",
+    "name":"spr_coxinha",
+    "path":"sprites/spr_coxinha/spr_coxinha.yy",
   },
   "spriteMaskId":null,
   "visible":true,

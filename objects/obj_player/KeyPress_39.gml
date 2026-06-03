@@ -1,7 +1,11 @@
 
 //mudando para direita 
-position_meeting(x, y, obj_chao);
 
+x = 328;
+y = 479;
+ 
+//invertendo a imagem
+image_xscale = -1;
 
 	
 
