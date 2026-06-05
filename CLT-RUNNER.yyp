@@ -65,11 +65,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
     {"roomId":{"name":"rm_img1","path":"rooms/rm_img1/rm_img1.yy",},},
     {"roomId":{"name":"rm_img2","path":"rooms/rm_img2/rm_img2.yy",},},
     {"roomId":{"name":"rm_img3","path":"rooms/rm_img3/rm_img3.yy",},},
     {"roomId":{"name":"rm_img4","path":"rooms/rm_img4/rm_img4.yy",},},
+    {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
