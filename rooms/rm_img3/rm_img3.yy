@@ -6,12 +6,12 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_2A3C7F7D","path":"rooms/rm_img3/rm_img3.yy",},
+    {"name":"inst_5BBE79F2","path":"rooms/rm_img3/rm_img3.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"espaco","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_2A3C7F7D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A3C7F7D","objectId":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.7541177,"scaleY":0.7541178,"x":32.0,"y":576.0,},
+        {"$GMRInstance":"v4","%Name":"inst_5BBE79F2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5BBE79F2","objectId":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.48058823,"scaleY":0.48058832,"x":79.0,"y":598.0,},
       ],"layers":[],"name":"espaco","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"imagens","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_47FA0CFA","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_47FA0CFA","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_imagem3","path":"sprites/spr_imagem3/spr_imagem3.yy",},"x":0.0,"y":0.0,},

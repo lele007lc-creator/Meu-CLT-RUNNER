@@ -6,12 +6,12 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_3BC36A72","path":"rooms/rm_img4/rm_img4.yy",},
+    {"name":"inst_6DDCA5F8","path":"rooms/rm_img4/rm_img4.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"espaco","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_3BC36A72","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3BC36A72","objectId":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.7541177,"scaleY":0.7541178,"x":32.0,"y":576.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6DDCA5F8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6DDCA5F8","objectId":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.48058823,"scaleY":0.48058832,"x":183.0,"y":596.0,},
       ],"layers":[],"name":"espaco","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"imagens","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_545007F9","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_545007F9","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_imagem4","path":"sprites/spr_imagem4/spr_imagem4.yy",},"x":0.0,"y":0.0,},
